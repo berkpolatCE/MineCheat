@@ -34,7 +34,8 @@ Minesweeper Board:
 
 ### Overlay Mode Example
 
-<img width="862" alt="MineCheat" src="https://github.com/user-attachments/assets/aa0751a8-1519-4a43-9296-0b71ff5a121e" />
+![image](https://github.com/user-attachments/assets/e3d2834d-09e1-4e2e-84c0-051dacfce47e)
+
 
 ## How It Works
 
