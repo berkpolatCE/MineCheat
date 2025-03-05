@@ -65,9 +65,3 @@ The program reads Minesweeper's memory using `ReadProcessMemory()`, then:
 - Running this program requires admin privileges to read Minesweeper’s memory.
 - The overlay does not interact with the game; it only visualizes data.
 
-## License
-
-This project is open-source under the MIT License.
-
-Contributions welcome! Feel free to fork and improve the project.
-
